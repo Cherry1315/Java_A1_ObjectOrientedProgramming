@@ -1,4 +1,11 @@
-University assessment. 
-Mark gained: HD (88.33%). 
-Assessed on creating and using abstract classes & interfaces, polymorphism, generic classes & interfaces, wildcards, and simple lambda expressions.
-Note: There are small fixes/changes that could have been made to abstract classes & interfaces, and wildcards for full marks (100%).
+## University assessment 
+This project was part of a university assessment where the following concepts were evaluated:
+- Creating and using abstract classes & interfaces
+- Polymorphism
+- Generic classes & interfaces
+- Wildcards
+- Simple lambda expressions
+
+
+**Grade:** High Distinction (88.33%). 
+*Note:* Minor inprovments could have been made to abstract classes & interfaces and wildcards for a perfect score (100%).
