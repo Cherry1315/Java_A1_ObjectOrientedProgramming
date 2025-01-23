@@ -8,4 +8,4 @@ This project was part of a university assessment where the following concepts we
 
 
 **Grade:** High Distinction (88.33%). 
-*Note:* Minor inprovments could have been made to abstract classes & interfaces and wildcards for a perfect score (100%).
+*Note:* Minor improvements could have been made to abstract classes & interfaces, and wildcards for a perfect score (100%).
